@@ -1,1 +1,1 @@
-# ocr_project
+# suggest or recommend additional products to consumers.
